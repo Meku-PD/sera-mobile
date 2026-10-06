@@ -3,7 +3,7 @@
 The Android app for **Sera**, an Ethiopian artisan marketplace. It uses the **same Supabase backend and the same account** as the web app: sign in on both, and your cart is shared. Add an item on the web and it appears in the app; add one in the app and it appears on the web.
 
 **Web app:** https://sera-shop-tan.vercel.app
-**APK download:** (add your Google Drive link here)
+**APK download:** (https://expo.dev/accounts/meku-pd/projects/sera-mobile/builds/6b612f16-ab4d-4a7a-ad32-7292f8676516)
 
 <!-- Add 2–3 phone screenshots here: home, product, cart -->
 
